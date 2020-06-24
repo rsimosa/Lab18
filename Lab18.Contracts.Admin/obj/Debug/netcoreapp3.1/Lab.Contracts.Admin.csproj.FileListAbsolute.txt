@@ -1,0 +1,5 @@
+C:\Users\NEDL\Desktop\Lab18\Lab18.Contracts.Admin\bin\Debug\netcoreapp3.1\Lab.Contracts.Admin.exe
+C:\Users\NEDL\Desktop\Lab18\Lab18.Contracts.Admin\obj\Debug\netcoreapp3.1\Lab.Contracts.Admin.csprojAssemblyReference.cache
+C:\Users\NEDL\Desktop\Lab18\Lab18.Contracts.Admin\obj\Debug\netcoreapp3.1\Lab.Contracts.Admin.AssemblyInfoInputs.cache
+C:\Users\NEDL\Desktop\Lab18\Lab18.Contracts.Admin\obj\Debug\netcoreapp3.1\Lab.Contracts.Admin.AssemblyInfo.cs
+C:\Users\NEDL\Desktop\Lab18\Lab18.Contracts.Admin\obj\Debug\netcoreapp3.1\Lab.Contracts.Admin.csproj.CoreCompileInputs.cache

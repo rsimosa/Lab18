@@ -1,0 +1,4 @@
+C:\Users\NEDL\Desktop\Lab18\Lab.Contracts.BackOfficeAdmin\obj\Debug\netcoreapp3.1\Lab.Contracts.BackOfficeAdmin.csprojAssemblyReference.cache
+C:\Users\NEDL\Desktop\Lab18\Lab.Contracts.BackOfficeAdmin\obj\Debug\netcoreapp3.1\Lab.Contracts.BackOfficeAdmin.AssemblyInfoInputs.cache
+C:\Users\NEDL\Desktop\Lab18\Lab.Contracts.BackOfficeAdmin\obj\Debug\netcoreapp3.1\Lab.Contracts.BackOfficeAdmin.AssemblyInfo.cs
+C:\Users\NEDL\Desktop\Lab18\Lab.Contracts.BackOfficeAdmin\obj\Debug\netcoreapp3.1\Lab.Contracts.BackOfficeAdmin.csproj.CoreCompileInputs.cache

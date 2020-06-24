@@ -1,0 +1,4 @@
+C:\Users\NEDL\Desktop\Lab18\Lab.Managers\obj\Debug\netcoreapp3.1\Lab.Managers.csprojAssemblyReference.cache
+C:\Users\NEDL\Desktop\Lab18\Lab.Managers\obj\Debug\netcoreapp3.1\Lab.Managers.AssemblyInfoInputs.cache
+C:\Users\NEDL\Desktop\Lab18\Lab.Managers\obj\Debug\netcoreapp3.1\Lab.Managers.AssemblyInfo.cs
+C:\Users\NEDL\Desktop\Lab18\Lab.Managers\obj\Debug\netcoreapp3.1\Lab.Managers.csproj.CoreCompileInputs.cache

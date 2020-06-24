@@ -1,0 +1,4 @@
+C:\Users\NEDL\Desktop\Lab18\Lab.Accessors\obj\Debug\netcoreapp3.1\Lab.Accessors.csprojAssemblyReference.cache
+C:\Users\NEDL\Desktop\Lab18\Lab.Accessors\obj\Debug\netcoreapp3.1\Lab.Accessors.AssemblyInfoInputs.cache
+C:\Users\NEDL\Desktop\Lab18\Lab.Accessors\obj\Debug\netcoreapp3.1\Lab.Accessors.AssemblyInfo.cs
+C:\Users\NEDL\Desktop\Lab18\Lab.Accessors\obj\Debug\netcoreapp3.1\Lab.Accessors.csproj.CoreCompileInputs.cache

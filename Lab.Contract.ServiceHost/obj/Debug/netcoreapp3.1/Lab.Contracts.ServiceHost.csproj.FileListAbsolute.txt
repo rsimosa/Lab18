@@ -1,0 +1,4 @@
+C:\Users\NEDL\Desktop\Lab18\Lab.Contract.ServiceHost\obj\Debug\netcoreapp3.1\Lab.Contracts.ServiceHost.csprojAssemblyReference.cache
+C:\Users\NEDL\Desktop\Lab18\Lab.Contract.ServiceHost\obj\Debug\netcoreapp3.1\Lab.Contracts.ServiceHost.AssemblyInfoInputs.cache
+C:\Users\NEDL\Desktop\Lab18\Lab.Contract.ServiceHost\obj\Debug\netcoreapp3.1\Lab.Contracts.ServiceHost.AssemblyInfo.cs
+C:\Users\NEDL\Desktop\Lab18\Lab.Contract.ServiceHost\obj\Debug\netcoreapp3.1\Lab.Contracts.ServiceHost.csproj.CoreCompileInputs.cache

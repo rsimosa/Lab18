@@ -1,0 +1,4 @@
+C:\Users\NEDL\Desktop\Lab18\Lab.Contracts.WebStore\obj\Debug\netcoreapp3.1\Lab.Contracts.WebStore.csprojAssemblyReference.cache
+C:\Users\NEDL\Desktop\Lab18\Lab.Contracts.WebStore\obj\Debug\netcoreapp3.1\Lab.Contracts.WebStore.AssemblyInfoInputs.cache
+C:\Users\NEDL\Desktop\Lab18\Lab.Contracts.WebStore\obj\Debug\netcoreapp3.1\Lab.Contracts.WebStore.AssemblyInfo.cs
+C:\Users\NEDL\Desktop\Lab18\Lab.Contracts.WebStore\obj\Debug\netcoreapp3.1\Lab.Contracts.WebStore.csproj.CoreCompileInputs.cache
